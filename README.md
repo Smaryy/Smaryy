@@ -1,15 +1,13 @@
 <!-- Banner -->
 ![banner](https://raw.githubusercontent.com/Smaryy/Smaryy/main/odel.webp)
 
-# 👋 Ciao, sono MARIA
+# 👋 Hi, I'm MARIA VISMARA
 Fullstack developer | Web Designer
 
-> 🎯 Sono una studentessa di programmazione sempre alla ricerca di nuovi stimoli per creare nuovi progetti tech
-
+> 🎯 I love experimenting with code and bringing new ideas to life. Every project is an opportunity to learn and improve.
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-vismara-984010286)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:mariavismara04@gmail.com)
-[![Sito](https://img.shields.io/badge/Portfolio-website-blue?style=flat-square&logo=google-chrome)](https://mvisionweb.com)
 
 <!-- Profile views -->
 ![Profile views](https://komarev.com/ghpvc/?username=Smaryy)
@@ -17,8 +15,8 @@ Fullstack developer | Web Designer
 ---
 
 ## 🔭 About me
-- Attualmente sto studiando come fullstack developer all'ITS Tech Talent Facotry e come ingegnere informatico all'università Unimercatorum
-- Skills principali: HTML, CSS, JavaScript, React, Java
+- I’m currently studying to become a Full-Stack Developer at ITS Tech Talent Factory and pursuing a degree in Computer Engineering at Unimercatorum University.
+- Main skills: HTML, CSS, JavaScript, React, Java
 
 ---
 
@@ -34,5 +32,7 @@ Fullstack developer | Web Designer
 ---
 
 
-## ☕ Support me
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/Smaryy) 
+### 🌈 Keep Coding 💻
+
+> “Code. Learn. Build. Repeat.”  
+> Thanks for stopping by! 🌟
