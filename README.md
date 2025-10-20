@@ -16,7 +16,7 @@ Fullstack developer | Web Designer
 
 ## 🔭 About me
 - I’m currently studying to become a Full-Stack Developer at ITS Tech Talent Factory and pursuing a degree in Computer Engineering at Unimercatorum University.
-- Main skills: HTML, CSS, JavaScript, React, Java
+- Main skills: HTML, CSS, JavaScript, Typrscript, React, Java, SQL (MySQL), NoSQL (MongoDB)
 
 ---
 
